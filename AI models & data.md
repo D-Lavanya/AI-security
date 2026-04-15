@@ -1,5 +1,5 @@
-#AI models & data
-##Training data
+#  AI models & data
+## Training data
 The data used for training of any ai model is from 
 - Web scraping : Automated crawls of public internet content
                 Low: no curator, no version control, content changes after collection
