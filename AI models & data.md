@@ -28,6 +28,14 @@ This creates potential **security risks**:
 - Malicious content can influence model behavior
 - Lack of transparency raises trust and safety concerns
 
+## Data Provenance
+Data provenance refers to tracking the origin and history of training data.
+
+### Key Questions
+- Where did the data come from?
+- When was it collected?
+- Has it been modified or processed?
+- 
 ## ML-BOM & AI Supply Chain Security
 
 - In traditional software security, incidents like the SolarWinds attack showed that software cannot be trusted without knowing its internal components.
